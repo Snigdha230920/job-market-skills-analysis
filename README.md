@@ -130,52 +130,26 @@ job-market-skills-analysis/
 
 ## 💡 Key Insights
 
-The analysis provides insights into:
-
-- Overall job market demand
-- Data Analyst job availability
-- Salary patterns
-- Geographic distribution of opportunities
-- Companies hiring Data Analysts
-- Most frequently requested technical skills
-- Relationship between skill demand and observed salary levels
-
-> Note: Salary-related findings represent observed salary patterns within the dataset and should not be interpreted as causal relationships.
-
----
-
-## 📊 Key Results
-
 ### Job Market
+- The dataset contains **787,686 job postings** across multiple roles.
+- **196,593 postings** are categorized as Data Analyst roles.
 
-- Total job postings analyzed: **787,686**
-- Data Analyst postings analyzed: **196,593**
+### Job Demand
+The analysis identifies the most frequently posted job categories and highlights the position of Data Analyst roles within the overall dataset.
 
-### Skills
+### Geographic Trends
+Data Analyst postings were analyzed by location to identify areas with higher concentrations of opportunities.
 
-The project identifies the most frequently requested skills in Data Analyst job postings and compares their observed demand with salary information.
+### Remote Work
+The analysis compares remote and non-remote Data Analyst opportunities based on the available job-posting data.
 
-### Salary
+### Salary Trends
+Salary statistics were calculated for Data Analyst positions where annual salary information was available.
 
-Salary analysis examines average annual salary levels among postings where salary information is available.
+### Skill Demand
+The analysis identifies frequently requested technical skills across Data Analyst job postings.
 
----
+### Skill & Salary Analysis
+Skills were analyzed using both demand frequency and observed average salary, allowing the results to be compared across two dimensions:
 
-## 🚀 Future Improvements
-
-Potential extensions to this project include:
-
-- Building an interactive Power BI dashboard
-- Adding time-based job market analysis
-- Comparing Data Analyst roles with other data-related roles
-- Performing deeper salary analysis by location
-- Analyzing skill combinations frequently appearing together
-- Automating the SQL analysis pipeline
-
----
-
-## 👩‍💻 Author
-
-**Snigdha Sai Palagiri**
-
-Aspiring Data Analyst | SQL | Python | Power BI | Data Analytics
+**Skill Demand ↔ Observed Salary**
